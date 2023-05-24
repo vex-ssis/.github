@@ -1,16 +1,22 @@
 # VEX at SSIS
 
-Starting in 2017 the team 76209 made steady progress in their robotic skills. Various team members participated in local competitions in Bangkok and Taipei. And went 2 times to VEX World in the US. Plus started the National Vietnamese Competition, that was held 2 times already.
+Starting in 2017 the team 76209 made steady progress in their robotic skills. Various team members participated in local competitions in Bangkok and Taipei. Went 3 times to VEX World in the US. And started the National Vietnamese Competition, that was held 3 times already.
 
-## Hi there 👋
+## [2022-2023 Spin Up](https://github.com/vex-ssis/2023)
 
-<!--
+Our first Middle School team ever in VEX! With [their own repository](https://github.com/vex-ssis/VRC-SPIN-UP) team 76209M **Mission Impossible** built 4 different robots and successfully participated in VEX Worlds in Dallas April 2023. The HS teams are 76209R **Raccoons**, 76209G **Honey Badgers**, 76209X **Egg**, 76209D **Kangaroos**. More details in [this repository](https://github.com/vex-ssis/2023).
 
-**Here are some ideas to get you started:**
+## [2021-2022 Tipping Point](https://github.com/vex-ssis/2022)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Starting only virtual for half a year we improved our programming skills and got 14th in World Ranking for the Virtual Competition. Programs from the second part are [in this repositoru](https://github.com/vex-ssis/2022).
+
+## 2020-2021 Change-Up
+
+No digital document, but in a summer camp of a week students built 5 working robots. And won the National Championship!
+
+## [2019-2020 Tower Takeover](https://github.com/vex-ssis/VEX-TowerTakeover)
+
+Some programs written by [Son Nguyen](https://github.com/SonNguyen415) document the programming in **C++** like documented in the [motion profile](https://github.com/vex-ssis/Motion-Profile---SSIS-VEX/blob/master/motionProfile/src/main.cpp) program from January 7th, 2020.
+
+More extensive is the [VEX-TowerTakeover](https://github.com/vex-ssis/VEX-TowerTakeover) repository with coding, building and documentation files. Written by [@SonNguyen415](https://github.com/SonNguyen415), [@khanhnguyen21](https://github.com/khanhnguyen21), [@JMecham](https://github.com/JMecham), [@seanthesandile](https://github.com/seanthesandile) and [@sekim20](https://github.com/sekim20).
+
