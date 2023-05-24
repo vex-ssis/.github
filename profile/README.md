@@ -8,7 +8,7 @@ Our first Middle School team ever in VEX! With [their own repository](https://gi
 
 ## [2021-2022 Tipping Point](https://github.com/vex-ssis/2022)
 
-Starting only virtual for half a year we improved our programming skills and got 14th in World Ranking for the Virtual Competition. Programs from the second part are [in this repositoru](https://github.com/vex-ssis/2022).
+Starting only virtual for half a year we improved our programming skills and got 14th in World Ranking for the Virtual Competition. Programs from the second part are [in this repository](https://github.com/vex-ssis/2022). Contributions from [@vindr22](https://github.com/vindr22).
 
 ## 2020-2021 Change-Up
 
