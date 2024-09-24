@@ -1,10 +1,14 @@
 # VEX at SSIS
 
-Starting in 2017 the team 76209 made steady progress in their robotic skills. Various team members participated in local competitions in Bangkok and Taipei. Went 3 times to VEX World in the US. And started the National Vietnamese Competition, that was held 3 times already.
+Starting in 2017 the team **76209** made steady progress in their robotic skills. Various team members participated in local competitions in Bangkok and Taipei. Went 3 times to VEX World in the US. And started the National Vietnamese Competition, that was held 4 times already. The team number changed to **1599** in 2023.
+
+## [2024-2025 High Stakes](https://github.com/vex-ssis/2025)
+
+To avoid confusion the REC foundation renamed the VEX V5 competition to V5RC. And SSIS is ready again. First [scrimmage on October 5h](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-24-7374.html#general-info). 
 
 ## [2023-2024 Over Under](https://github.com/vex-ssis/2024)
 
-This season we have to look for a gripper.
+VEX is getting momentum. The number of teams representing Vietnam is doubled, now [4 teams can fly to Dallas](https://kb.roboticseducation.org/hc/en-us/articles/5474199602071-Qualifying-Criteria-for-VEX-Robotics-Competition-Events). SSIS changed the team number to **1599**, and had a total of 8 teams participating in the [Southern Championship](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-VRC-23-5194.html#general-info). The attendance there more than doubled with **34 teams** competing.
 
 ## [2022-2023 Spin Up](https://github.com/vex-ssis/2023)
 
